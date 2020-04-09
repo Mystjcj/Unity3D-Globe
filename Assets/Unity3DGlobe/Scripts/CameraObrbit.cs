@@ -2,6 +2,10 @@
 using System.Collections;
 
 public class CameraObrbit : MonoBehaviour {
+
+
+
+
     public float MinDistance = 1.0f;
     public float MaxDistance = 1.3f;
     float distance= 1000;
